@@ -1,0 +1,4 @@
+c:\git\AD98992\A8\A8.Tests\obj\Debug\netcoreapp3.1\A8.Tests.csprojAssemblyReference.cache
+c:\git\AD98992\A8\A8.Tests\obj\Debug\netcoreapp3.1\A8.Tests.csproj.CoreCompileInputs.cache
+c:\git\AD98992\A8\A8.Tests\obj\Debug\netcoreapp3.1\A8.Tests.AssemblyInfoInputs.cache
+c:\git\AD98992\A8\A8.Tests\obj\Debug\netcoreapp3.1\A8.Tests.AssemblyInfo.cs

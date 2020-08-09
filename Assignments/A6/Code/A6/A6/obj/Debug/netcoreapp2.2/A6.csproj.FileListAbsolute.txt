@@ -1,0 +1,17 @@
+C:\git\AD98992\A6\A6\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\git\AD98992\A6\A6\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\git\AD98992\A6\A6\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\git\AD98992\A6\A6\bin\Debug\netcoreapp2.2\A6.deps.json
+C:\git\AD98992\A6\A6\bin\Debug\netcoreapp2.2\A6.runtimeconfig.json
+C:\git\AD98992\A6\A6\bin\Debug\netcoreapp2.2\A6.runtimeconfig.dev.json
+C:\git\AD98992\A6\A6\bin\Debug\netcoreapp2.2\A6.dll
+C:\git\AD98992\A6\A6\bin\Debug\netcoreapp2.2\A6.pdb
+C:\git\AD98992\A6\A6\bin\Debug\netcoreapp2.2\TestCommon.dll
+C:\git\AD98992\A6\A6\bin\Debug\netcoreapp2.2\TestCommon.pdb
+C:\git\AD98992\A6\A6\obj\Debug\netcoreapp2.2\A6.csprojAssemblyReference.cache
+C:\git\AD98992\A6\A6\obj\Debug\netcoreapp2.2\A6.csproj.CoreCompileInputs.cache
+C:\git\AD98992\A6\A6\obj\Debug\netcoreapp2.2\A6.AssemblyInfoInputs.cache
+C:\git\AD98992\A6\A6\obj\Debug\netcoreapp2.2\A6.AssemblyInfo.cs
+C:\git\AD98992\A6\A6\obj\Debug\netcoreapp2.2\A6.csproj.CopyComplete
+C:\git\AD98992\A6\A6\obj\Debug\netcoreapp2.2\A6.dll
+C:\git\AD98992\A6\A6\obj\Debug\netcoreapp2.2\A6.pdb

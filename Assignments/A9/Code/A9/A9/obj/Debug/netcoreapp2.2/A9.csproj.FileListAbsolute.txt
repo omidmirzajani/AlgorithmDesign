@@ -1,0 +1,17 @@
+C:\git\AD98992\A9\A9\obj\Debug\netcoreapp2.2\A9.csprojAssemblyReference.cache
+C:\git\AD98992\A9\A9\obj\Debug\netcoreapp2.2\A9.csproj.CoreCompileInputs.cache
+C:\git\AD98992\A9\A9\obj\Debug\netcoreapp2.2\A9.AssemblyInfoInputs.cache
+C:\git\AD98992\A9\A9\obj\Debug\netcoreapp2.2\A9.AssemblyInfo.cs
+C:\git\AD98992\A9\A9\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\git\AD98992\A9\A9\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\git\AD98992\A9\A9\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\git\AD98992\A9\A9\bin\Debug\netcoreapp2.2\A9.deps.json
+C:\git\AD98992\A9\A9\bin\Debug\netcoreapp2.2\A9.runtimeconfig.json
+C:\git\AD98992\A9\A9\bin\Debug\netcoreapp2.2\A9.runtimeconfig.dev.json
+C:\git\AD98992\A9\A9\bin\Debug\netcoreapp2.2\A9.dll
+C:\git\AD98992\A9\A9\bin\Debug\netcoreapp2.2\A9.pdb
+C:\git\AD98992\A9\A9\bin\Debug\netcoreapp2.2\TestCommon.dll
+C:\git\AD98992\A9\A9\bin\Debug\netcoreapp2.2\TestCommon.pdb
+C:\git\AD98992\A9\A9\obj\Debug\netcoreapp2.2\A9.csproj.CopyComplete
+C:\git\AD98992\A9\A9\obj\Debug\netcoreapp2.2\A9.dll
+C:\git\AD98992\A9\A9\obj\Debug\netcoreapp2.2\A9.pdb
